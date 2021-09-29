@@ -108,4 +108,4 @@ python3 main.py
 
 [![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [@MMC_LINKZ](https://telegram.dog/MMC_LINKZ)
